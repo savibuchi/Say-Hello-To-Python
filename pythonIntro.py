@@ -19,7 +19,7 @@ print("I am learning Python.")
 # with two pieces put together
 print("I am learning Python.")
 # or with a line break in between
-print("Hello CDS 2017!", "\nI am learning Python.")
+print("Hello 2020!", "\nI am learning Python.")
 # or with a specified format
 print("I think {} is a number.".format(23))
 print("Indeed, {} is a number with {} digits.".format(23,2))
